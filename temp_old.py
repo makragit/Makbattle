@@ -136,3 +136,7 @@ def auto_shoot_order(self, all_groups):
         self.shooting_order -= 1
         if self.shooting_order == 0:
             self.shooting_order = len(self.all_groups["unit_group_r"])
+
+
+
+            aasdfasdf
